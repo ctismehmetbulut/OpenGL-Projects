@@ -4,7 +4,7 @@
 
 sudo apt install freeglut3-dev gcc 
 
-gcc *name_of_the_source_file*.cpp -o game -lglut -lGL -lGLU -lm
+gcc *name_of_the_source_file*.cpp vec.cpp -o game -lglut -lGL -lGLU -lm
 
 ./game
 
