@@ -11,3 +11,5 @@ gcc *name_of_the_source_file*.cpp vec.cpp -o game -lglut -lGL -lGLU -lm
 ## Intersection Game
 
 - Press F1, F2 or F3 for changing the mode
+
+[Editing OpenGL-Projects/README.md at main · ctismehmetbulut/OpenGL-Projects](https://github.com/ctismehmetbulut/OpenGL-Projects/edit/main/README.md)
