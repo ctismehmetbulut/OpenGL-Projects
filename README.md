@@ -6,7 +6,7 @@ https://github.com/ctismehmetbulut/OpenGL-Projects/assets/78090375/c4548fb2-f4c6
 
 https://github.com/ctismehmetbulut/OpenGL-Projects/assets/78090375/9c20d0c6-2245-4efd-b596-31dc36bf22e2
 
-https://github.com/ctismehmetbulut/OpenGL-Projects/assets/78090375/62cc1c3d-e506-4a07-aaf5-87985d6d305c
+https://github.com/ctismehmetbulut/OpenGL-Projects/assets/78090375/ddd85db7-b961-43da-a0b7-b9cd1fbfcf88
 
 ### Compiling on Linux requires
 
