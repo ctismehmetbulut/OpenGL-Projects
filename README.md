@@ -1,10 +1,8 @@
-https://github.com/ctismehmetbulut/OpenGL-Projects/assets/78090375/e1163d79-5080-4c06-ac07-1791a57d015d
+### Project Demos
 
-https://github.com/ctismehmetbulut/OpenGL-Projects/assets/78090375/cd9b9a4f-daad-48d5-affa-311500daf852
+https://github.com/ctismehmetbulut/OpenGL-Projects/assets/78090375/64621ccd-f31b-492c-a58b-f859815695c2
 
-
-
-# OpenGL-Projects
+https://github.com/ctismehmetbulut/OpenGL-Projects/assets/78090375/c4548fb2-f4c6-4c2d-bee8-fdc05d7766ed
 
 ### Compiling on Linux requires
 
