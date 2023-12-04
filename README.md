@@ -4,6 +4,10 @@ https://github.com/ctismehmetbulut/OpenGL-Projects/assets/78090375/64621ccd-f31b
 
 https://github.com/ctismehmetbulut/OpenGL-Projects/assets/78090375/c4548fb2-f4c6-4c2d-bee8-fdc05d7766ed
 
+https://github.com/ctismehmetbulut/OpenGL-Projects/assets/78090375/9c20d0c6-2245-4efd-b596-31dc36bf22e2
+
+https://github.com/ctismehmetbulut/OpenGL-Projects/assets/78090375/62cc1c3d-e506-4a07-aaf5-87985d6d305c
+
 ### Compiling on Linux requires
 
 sudo apt install freeglut3-dev gcc 
